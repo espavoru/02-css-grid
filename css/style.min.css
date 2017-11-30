@@ -490,7 +490,7 @@ img {
   display: grid;
   grid-gap: 20px;
   grid-template-columns: 100px 200px auto auto;
-  height: 100vh; }
+  height: 90vh; }
 .grid-item {
   background-color: skyblue; }
 .grid-item:nth-of-type(2) {
